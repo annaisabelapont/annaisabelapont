@@ -4,7 +4,7 @@
 
 🔭 Sou bolsista no projeto de pesquisa SISGHA - Sistema Gerador de Horário Acadêmico
 
-💻 Atualmente aprendendo C#, TypeScript e Vue
+💻 Atualmente aprendendo C#, TypeScript e Vue.js
 
 ## 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@annaisabelapont@gmail.com)

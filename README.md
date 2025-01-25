@@ -1,10 +1,10 @@
 # 💫 Olá, me chamo Anna Isabela Pontuschka
 
-📖 Estou cursando Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia
+📖 Cursando Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Rondônia
 
-🔭 Sou bolsista no projeto de pesquisa SISGHA - Sistema Gerador de Horário Acadêmico
+🔭 Bolsista no projeto Sistema Gerador de Horário Acadêmico
 
-💻 Atualmente aprendendo C#, TypeScript e Vue.js
+💻 Atualmente aprendendo .NET e Nuxt.js
 
 ## 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annaisabelapont@gmail.com)

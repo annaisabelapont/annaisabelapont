@@ -1,4 +1,4 @@
-# 💫 Olá, me chamo Anna Isabela Pontuschka
+# 🔎 Sobre mim
 
 📖 Cursando Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Rondônia
 

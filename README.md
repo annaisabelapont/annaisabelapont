@@ -1,10 +1,14 @@
 # 🔎 Sobre mim
 
-📖 Cursando Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Rondônia
+🎨 Desenvolvedora Front-End / UI/UX
+
+💻 Proeficiente em ecossistema Vue (Vue.js, Vue Router, Nuxt.js)
+
+📖 Cursando Técnico em Informática no Instituto Federal de Rondônia
 
 🔭 Bolsista no projeto Sistema Gerador de Horário Acadêmico
 
-💻 Atualmente aprendendo .NET e Nuxt.js
+🚀 Atualmente aprendendo Blazor e React
 
 <br />
 

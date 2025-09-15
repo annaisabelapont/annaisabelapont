@@ -2,13 +2,13 @@
 
 🎨 Desenvolvedora Front-End / UI/UX
 
-💻 Proeficiente em ecossistema Vue (Vue.js, Vue Router, Nuxt.js)
+💻 Proeficiente em ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React.js
 
 📖 Cursando Técnico em Informática no Instituto Federal de Rondônia
 
 🔭 Bolsista no projeto Sistema Gerador de Horário Acadêmico
 
-🚀 Atualmente aprendendo Blazor e React
+🚀 Atualmente aprendendo Next.js e Blazor
 
 <br />
 

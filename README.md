@@ -1,14 +1,18 @@
 # 🔎 Sobre mim
 
-🎨 Desenvolvedora Front-End / UI/UX
+🪪 Desenvolvedora Front-End e Designer UI/UX
 
-💻 Proeficiente em ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React.js
+🎨 Prototipação de interfaces com Figma
+
+💻 Proeficiente em TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
+
+💨 Experiência com Metodologias Ágeis (Scrum) e suas ferramentas (Kanbam, Trello, Jira, GitHub Projects)
 
 📖 Cursando Técnico em Informática no Instituto Federal de Rondônia
 
-🔭 Bolsista no projeto Sistema Gerador de Horário Acadêmico
+🔭 Ex-bolsista nos projetos Sistema Gerador de Horário Acadêmico e Sistema de Gestão de Ambientes
 
-🚀 Atualmente aprendendo Next.js e Blazor
+🚀 Atualmente aprendendo Blazor
 
 <br />
 

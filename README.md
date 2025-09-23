@@ -6,7 +6,7 @@
 
 💻 Proeficiente em TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
 
-💨 Experiência com Metodologias Ágeis (Scrum) e suas ferramentas (Kanbam, Trello, Jira, GitHub Projects)
+💨 Experiência com Metodologias Ágeis (Scrum) e suas ferramentas (Kanban, Trello, Jira, GitHub Projects)
 
 📖 Cursando Técnico em Informática no Instituto Federal de Rondônia
 

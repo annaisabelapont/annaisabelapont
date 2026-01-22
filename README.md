@@ -8,9 +8,15 @@
 
 💻 Proeficiente em TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
 
-💨 Experiência com Metodologias Ágeis (Scrum) e suas ferramentas (Kanban, Trello, Jira, GitHub Projects)
+💨 Metodologias Ágeis (Scrum) e suas ferramentas (Kanban, Trello, Jira, GitHub Projects)
 
-🔭 Ex-bolsista nos projetos Sistema Gerador de Horário Acadêmico e Sistema de Gestão de Ambientes, atualmente bolsista no Projeto de Informatização Escolar (Proinfe)
+🔭 Experiência:
+
+- **(2023-2025)**
+  Bolsista nos projetos Sistema Gerador de Horário Acadêmico (SISGHA) e Sistema de Gestão de Ambientes (SISGEA)
+  
+- **(2025-)**
+  Bolsista no Projeto de Informatização Escolar (Proinfe)
 
 <br />
 

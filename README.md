@@ -4,7 +4,7 @@
 
 🪪 Desenvolvedora Front-End e Designer UI/UX
 
-💻 TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
+💻 C/C++, TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
 
 💨 Metodologias Ágeis (Scrum) e ferramentas (Kanban, Trello, Jira, GitHub Projects)
 

@@ -6,7 +6,7 @@
 
 💻 C/C++, Python, TypeScript, ecossistema Vue (Vue.js, Vue Router, Nuxt.js) e React (React.js, Next.js)
 
-💨 Metodologias Ágeis (Scrum) e ferramentas (Kanban, Trello, Jira, GitHub Projects)
+💨 Metodologias Ágeis (Scrum) e ferramentas (Kanban, Trello, Jira, GitHub Projects), Metodologias de Gestão de Metas (OKRs)
 
 🔭 Experiência:
 
@@ -15,6 +15,12 @@
   
 - **(2025-2026)**
   Dev front-end junior no Projeto de Informatização Escolar (Proinfe)
+
+- **(2026-)**
+  Dev front-end da Síntese Jr, empresa júnior do curso de Sistemas de Informação
+
+- **(2026-)**
+  Membro da entidade estudantil de cibersegurança EACH In The Shell, do curso de Sistemas de Informação
 
 <br />
 
